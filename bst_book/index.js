@@ -1,4 +1,4 @@
-function iniated{
+function iniated(){
 	alert('hello');
 }
 

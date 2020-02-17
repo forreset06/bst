@@ -1,13 +1,19 @@
-*{
-	padding: 50px, 50px, 10px, 50px;
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
+
+body{
+	margin: 5px 50px 10px 50px;
 }
 #headers{
 	border: 1px solid black;
-	padding: 40px,40px,40px,40px;
+	/* padding: 50px 5px 50px 5px; */
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 50px;
+	text-align: center;
 }
 
 #main_arti{
 	border: 1px solid black;
-	
+	font-family: 'Noto Sans KR', sans-serif;
+	text-align: left;
 }
 
