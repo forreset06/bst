@@ -1,5 +1,5 @@
 function iniated(){
-	alert('hello');
+	var hd = document.getElementById('headers');
 }
 
-window.getEventListener('load',iniated,false);
+window.addEventListener('load',iniated,false);
