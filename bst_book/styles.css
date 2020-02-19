@@ -15,16 +15,10 @@ body{
 	text-align: center;
 }
 
-#main_arti{
+#mainArticles{
 	display: -webkit-box;
-	-webkit-box-orient: vertical;
-	border: 1px solid black;
-	margin-left: 20px;
+	margin-left: 100px;
+    margin-right: 100PX;
 	font-family: 'Noto Sans KR', sans-serif;
 	text-align: left;
-}
-
-#wrapper{
-	display: -webkit-box;
-	-webkit-box-orient: horizontal;
 }
